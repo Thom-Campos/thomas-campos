@@ -2,14 +2,14 @@
 
 > ⚠️ **This is a sample file.** Replace this content with your real writeup and update the metadata in `Blog/index.json`.
 
----
+***
 
 ## Bilingual blog system
 
 Each blog entry can have **two Markdown files**:
 
 | File | Language | Required? |
-|---|---|---|
+| ---- | -------- | --------- |
 | `Blog/{id}.md` | Spanish | ✅ Yes |
 | `Blog/{id}.en.md` | English | ⬜ Optional |
 
@@ -42,7 +42,7 @@ If the visitor has **English** selected and `Blog/{id}.en.md` exists, it will lo
 
 **4.** Done! The card appears automatically.
 
----
+***
 
 ## Example writeup structure
 
@@ -68,5 +68,5 @@ FLAG{example_flag}
 
 ## Key takeaways
 
-- Key point 1
-- Key point 2
+* Key point 1
+* Key point 2
