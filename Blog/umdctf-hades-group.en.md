@@ -1,6 +1,9 @@
-**Flag:** `UMDCTF{REC-9305174}`  
-**Category:** OSINT  
+**Flag:** `UMDCTF{REC-9305174}`
+
+**Category:** OSINT
+
 **Challenge author:** greyroad__
+
 ***
 
 This challenge was basically pure detective work. It was the last one I tackled, mostly because OSINT challenges honestly intimidated me quite a bit.
@@ -18,7 +21,7 @@ Our mission was to unmask the real owner of the entire operation and obtain a **
 We had access to a bunch of bots to piece the puzzle together:
 
 | Bot | Function |
-|---|---|
+| --- | -------- |
 | `@QuickOSINTSearch_XGBXL_389YBot` | Leak DB A — search by username, UID, or phone |
 | `@EyeOfTheGod_ZF231_389YBot` | Leak DB B — search by username, UID, or phone |
 | `@SherlockTweaked_9VEZB_389YBot` | Web cache and username history |
@@ -145,13 +148,13 @@ Mission accomplished. It returned the exact record the challenge was asking for.
 ## Cached admin profile
 
 | Field | Data |
-|---|---|
+| ----- | ---- |
 | Real name | Niklas Hofmann |
 | Country | Germany |
 | Phone | +49 160 5550 7318 |
 | Telegram UID | 7816442093 |
-| Active main alias | @kerberos_spine |
-| Throwaway alias | @zeus_archive |
+| Active main alias | @kerberos\_spine |
+| Throwaway alias | @zeus\_archive |
 | Record ID | REC-9305174 |
 
 ***
