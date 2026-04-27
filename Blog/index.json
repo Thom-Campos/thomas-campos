@@ -1,5 +1,69 @@
 [
   {
+    "id": "umdctf-rush-hour-misc",
+    "cat": "ctf",
+    "icon": "directions_car",
+    "dateDisplay": "26-04-2026",
+    "articleDate": "26-04-2026",
+    "titleEs": "misc/rush-hour - UMDCTF",
+    "titleEn": "misc/rush-hour - UMDCTF",
+    "excerptEs": "Explicación de cómo vulnerar un simulador de vehículo autónomo mediante un ataque adversario. El reto se resolvió aplicando un algoritmo evolutivo para engañar a la IA del coche, forzándolo a tomar una ruta específica mediante la alteración sutil de sus sensores.",
+    "excerptEn": "Explanation of how to bypass an autonomous vehicle simulator using an adversarial attack. The challenge was solved by applying an evolutionary algorithm to trick the car's AI, forcing it to take a specific route by subtly altering its sensor data.",
+    "cardTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Misc",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Adversarial Attack",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " IA",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Python",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "articleTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Misc",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Adversarial Attack",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " IA",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Python",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "placeholder": false
+  },
+  {
     "id": "placeholder-writeup",
     "cat": "ctf",
     "dateDisplay": "— —",
