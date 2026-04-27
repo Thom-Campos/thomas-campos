@@ -1,5 +1,77 @@
 [
   {
+    "id": "umdctf-rev-roulette",
+    "cat": "ctf",
+    "icon": "casino",
+    "dateDisplay": "27-04-2026",
+    "articleDate": "27-04-2026",
+    "titleEs": "rev/roulette - UMDCTF",
+    "titleEn": "rev/roulette - UMDCTF",
+    "excerptEs": "Write-up del reto \"roulette\" de UMDCTF. Explica cómo evadir un cifrado de flujo de 27 rondas usando un script de Python en GDB para sobrescribir registros en tiempo de ejecución, evitando tener que revertir el algoritmo matemáticamente.",
+    "excerptEn": "Write-up for the UMDCTF \"roulette\" challenge. It explains how to bypass a 27-round stream cipher using a Python GDB script to overwrite registers at runtime, avoiding the need to manually reverse the math algorithm.",
+    "cardTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Rev",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Reverse Engineering",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " GDB",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Python",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " XOR",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "articleTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Rev",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Reverse Engineering",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " GDB",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Python",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " XOR",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "placeholder": false
+  },
+  {
     "id": "umdctf-insider-info",
     "cat": "ctf",
     "icon": "dns",
