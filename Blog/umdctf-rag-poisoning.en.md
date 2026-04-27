@@ -5,9 +5,9 @@
 **Challenge author:** unsure
 ***
 
-This challenge gave me quite a few headaches because dealing with LLMs is sometimes like fighting a wall. The premise was to trick a chatbot, but the system had a pretty sneaky filter.
-
 ## Context
+
+This challenge gave me quite a few headaches because dealing with LLMs is sometimes like fighting a wall. The premise was to trick a chatbot, but the system had a pretty sneaky filter.
 
 The description simply said *"Is CTF dead? really?"* and we were given the URL of a web interface with a bot.
 
