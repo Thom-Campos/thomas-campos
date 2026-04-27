@@ -1,5 +1,69 @@
 [
   {
+    "id": "umdctf-hades-group",
+    "cat": "ctf",
+    "icon": "fingerprint",
+    "dateDisplay": "26-04-2026",
+    "articleDate": "26-04-2026",
+    "titleEs": "osint/hades-group - UMDCTF",
+    "titleEn": "osint/hades-group - UMDCTF",
+    "excerptEs": "Resolución paso a paso del reto \"Hades Group\" de UMDCTF. Un desafío de OSINT donde utilizamos bots de Telegram para desanonimizar al administrador de un grupo clandestino, explotando una falla de OpSec en un paquete de stickers y rastreando cachés de internet.",
+    "excerptEn": "Step-by-step write-up for the UMDCTF \"Hades Group\" challenge. An OSINT investigation using Telegram bots to de-anonymize an underground group administrator by exploiting an OpSec failure in a custom sticker pack and tracking internet caches.",
+    "cardTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " OSINT",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Telegram",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Ciberseguridad",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " OpSec",
+        "cls": "tag-misc"
+      }
+    ],
+    "articleTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " OSINT",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Telegram",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Ciberseguridad",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " OpSec",
+        "cls": "tag-misc"
+      }
+    ],
+    "placeholder": false
+  },
+  {
     "id": "umdctf-rush-hour-misc",
     "cat": "ctf",
     "icon": "directions_car",
