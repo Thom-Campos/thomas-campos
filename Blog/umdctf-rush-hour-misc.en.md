@@ -22,7 +22,7 @@ For this, we were given the car's "brain" (a trained AI model) and the game engi
 
 ### What exactly does the system do?
 
-We couldn't get root access or directly modify the car's brain. The solution was to perform a man-in-the-middle attack on its sensors before the AI processed anything.
+We couldn't get root access or directly modify the car's brain. The solution was to perform a 'man-in-the-middle attack' on its sensors before the AI processed anything.
 
 Imagine putting a pair of virtual reality goggles on the car. We slightly alter the road it's seeing, tricking it into turning on its own toward wherever we want.
 
