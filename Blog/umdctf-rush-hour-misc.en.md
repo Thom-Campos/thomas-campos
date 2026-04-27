@@ -2,7 +2,7 @@
 
 **Category:** Misc
 
-**Challenge Author:** segal
+**Challenge author:** segal
 
 ***
 
