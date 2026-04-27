@@ -1,5 +1,77 @@
 [
   {
+    "id": "umdctf-rag-poisoning",
+    "cat": "ctf",
+    "icon": "smart_toy",
+    "dateDisplay": "26-04-2026",
+    "articleDate": "26-04-2026",
+    "titleEs": "misc/rag-poisoning - UMDCTF",
+    "titleEn": "misc/rag-poisoning - UMDCTF",
+    "excerptEs": "Explicación paso a paso de cómo resolver el reto \"rag-poisoning\" de UMDCTF. El desafío se resolvió engañando a un chatbot de IA mediante la manipulación de su sistema RAG y evadiendo los estrictos filtros de salida codificando partes de la flag en Base64.",
+    "excerptEn": "Step-by-step write-up for the UMDCTF \"rag-poisoning\" challenge. The challenge was solved by tricking an AI chatbot through the manipulation of its RAG system and bypassing strict output filters by encoding parts of the hidden flag in Base64.",
+    "cardTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Misc",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " AI",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " RAG",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " LLM",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Prompt Injection",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "articleTags": [
+      {
+        "text": "UMDCTF",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Misc",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " AI",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " RAG",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " LLM",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Prompt Injection",
+        "cls": "tag-misc"
+      },
+      {
+        "text": " Write-up",
+        "cls": "tag-misc"
+      }
+    ],
+    "placeholder": false
+  },
+  {
     "id": "umdctf-hades-group",
     "cat": "ctf",
     "icon": "fingerprint",
