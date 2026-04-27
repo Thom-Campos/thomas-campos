@@ -22,7 +22,7 @@ Para esto, nos pasaron el "cerebro" del auto (un modelo de IA entrenado) y el mo
 
 ### ¿Qué hace exactamente el sistema?
 
-Aquí no podíamos sacar root ni modificar el cerebro del auto directamente. La solución era hacerle un man-in-the-middle a sus sensores antes de que la IA procesara todo.
+Aquí no podíamos sacar root ni modificar el cerebro del auto directamente. La solución era hacerle un 'man-in-the-middle' a sus sensores antes de que la IA procesara todo.
 
 Imagínense que le ponemos unos lentes de realidad virtual al auto. Le alteramos un poquito la calle que está viendo, engañándolo para que doble solo hacia donde queremos.
 
